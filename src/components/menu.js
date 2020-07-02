@@ -16,7 +16,10 @@ class Menu extends React.Component {
                 {menuItems.pizza.map((data) => (
                   <PizzaCard
                     key={data.id}
-                    image={data.image}
+                    image={
+                      "https://github.com/drumms22/cis-225/blob/gh-pages/" +
+                      data.image
+                    }
                     name={data.name}
                     price={data.price}
                     text={data.text}
