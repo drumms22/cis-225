@@ -1,0 +1,17 @@
+ <div class='card-body'>
+            <h5 class='card-title'>Card title</h5>
+            <p class='card-text'>
+              Some quick example text to build on the card title and make up the
+              bulk of the card's content.
+            </p>
+          </div>
+
+          winning pepperoni pizza with our secret signature sauce that will satisfy your taste buds with every bite
+
+          {pizzaData.map((data) => (
+              <PizzaCard
+                name={data.name}
+                price={data.price}
+                description={data.description}
+              />
+            ))}

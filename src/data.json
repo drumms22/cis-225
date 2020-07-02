@@ -1,0 +1,135 @@
+{
+  "pizza": [
+    {
+      "id": 1,
+      "image": "pepperoni.jpg",
+      "name": "Pepperoni",
+      "price": 10,
+      "text": "Our award winning pepperoni pizza with our secret signature sauce and topped with roasted pepperonis. This pizza will satisfy your taste buds with every bite! "
+    },
+    {
+      "id": 2,
+      "image": "threeMeat.jpg",
+      "name": "3-meat",
+      "price": 12,
+      "text": "Want more meat? Try our 3-meat pizza! It has fresh sauage, fresh ham, and of course roasted pepperoni to enhance the robust flavor of our signature sauce."
+    },
+    {
+      "id": 3,
+      "image": "supreme.jpg",
+      "name": "Supreme",
+      "price": 15,
+      "text": "If you like everything on your pizza, then our Supreme is the way to go! It include green peppers, vidalia onions, black olives, tomatoes, spinach and your choice of meat."
+    },
+    {
+      "id": 4,
+      "image": "buffalo.jpg",
+      "name": "Buffalo Chicken",
+      "price": 12,
+      "text": "Try our amazing Buffalo Chicken pizza! The great tase of fresh cooked chicken on top of our award winning dough topped with our signature Baffalo sauce."
+    },
+    {
+      "id": 5,
+      "image": "flatbread2.jpg",
+      "name": "Flatbread Specialty",
+      "price": 11,
+      "text": "When you think healthy but tasty, thnk Flatbread pizza. You get to enjoy a great pizza with fresh veggies and olive oil withouut worrying about those pesky carbs!"
+    },
+    {
+      "id": 6,
+      "image": "green.jpg",
+      "name": "Green Olive Special",
+      "price": 15,
+      "text": "Try our NEW! Green Olive Special! The taste of our fresh green olives on top of our new green olive sauce and pepperoni is an oral masterpiece!"
+    }
+  ],
+
+  "sandwich": [
+    {
+      "id": 1,
+      "image": "grilledChicken.jpg",
+      "name": "Grilled Chicken",
+      "price": 10,
+      "text": "Our Grilled Chicken sandwich is a juicy perfection of flavorful herbs and spices topped with lettuce, tomato, and onion, all wrapped in a toasted bun! "
+    },
+    {
+      "id": 2,
+      "image": "friedChicken.jpg",
+      "name": "Fried Chicken",
+      "price": 10,
+      "text": "Just like our Grilled Chicken, this flavorful sandwich adds an extra boost by being deep-fried to order to give it the extra crispyness you desire!"
+    },
+    {
+      "id": 3,
+      "image": "buffaloChicken.jpg",
+      "name": "Buffalo Chicken",
+      "price": 10,
+      "text": "If you like the heat, our Buffalo Chicken gives you exactly what you're looking for! That great fried chicken taste doused in our signature buffalo sauce."
+    },
+    {
+      "id": 4,
+      "image": "chickenSub.jpg",
+      "name": "Chicken Sub",
+      "price": 10,
+      "text": "Try our NEW Chicken Sub! The chciken is marinated for 24 hours in our signature smokey sauce and flame grilled topped with lettuce, tomato and mayo."
+    },
+    {
+      "id": 5,
+      "image": "burger.jpg",
+      "name": "Cheese Burger",
+      "price": 10,
+      "text": "Our Cheese Burger has everything you want. That classic burger flavor topped with lettuce, tomato, pickles, onion all on a toasted bun to perfection!"
+    },
+    {
+      "id": 8,
+      "image": "grilledCheese.jpg",
+      "name": "Grilled Cheese",
+      "price": 9,
+      "text": "Our Grilled Cheese sandwich has the great taste of an American classic. The crispy toasted bread with that gooey cheesy inside we all desire!"
+    }
+  ],
+  "other": [
+    {
+      "id": 1,
+      "image": "salad.jpg",
+      "name": "Salad",
+      "price": 7,
+      "text": "Our Salad is made up of fresh romaine lettuce, tomato, onion, green pepper, cucumber, carrots, and your choice of dressing to go on top! "
+    },
+    {
+      "id": 2,
+      "image": "spaghetti.jpg",
+      "name": "Spaghetti",
+      "price": 10,
+      "text": "Our Spaghetti recipe comes striaght from Italy! Our sauce is made fresh from fresh tomatoes and other signature ingredients with fresh made pasta."
+    },
+    {
+      "id": 3,
+      "image": "wings.jpg",
+      "name": "Chicken Wings",
+      "price": 10,
+      "text": "If you just want a classic American dish, then try our Chicken Wings! 10 wings fried to order and doused in your choice of sauce, you will not be disapointed!"
+    },
+    {
+      "id": 4,
+      "image": "fishStrips.jpg",
+      "name": "Fish Strips",
+      "price": 10,
+      "text": "Fish Strips are our taste of the sea! Enjoy 3 fresh fried tilapia strips that just melt like butter in your mouth as soon as you bite down."
+    },
+    {
+      "id": 5,
+      "image": "pasta.jpg",
+      "name": "Chicken Alfredo",
+      "price": 12,
+      "text": "Our Chicken ALfredo is a must try! Our signature alfredo recipe is like no other and combined with fresh made pasta, you will be back for more!"
+    },
+    {
+      "id": 8,
+      "image": "steak.jpg",
+      "name": "Sirloin Steak",
+      "price": 9,
+      "text": "Our 6 oz Sirloin Steak comes from the best prime choice cut and is made to order! From well done to rare it always comes out perfect!"
+    }
+  ]
+}
