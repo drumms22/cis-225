@@ -17,7 +17,7 @@ class Menu extends React.Component {
                   <PizzaCard
                     key={data.id}
                     image={
-                      "https://github.com/drumms22/cis-225/blob/gh-pages/" +
+                      "https://github.com/drumms22/cis-225/blob/master/public/" +
                       data.image
                     }
                     name={data.name}
