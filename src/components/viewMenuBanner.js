@@ -15,7 +15,7 @@ class ViewMenu extends React.Component {
         <Row>
           <Col lg={9} className='border p-0'>
             <img
-              src={"flatbread2.jpg"}
+              src={"./flatbread2.jpg"}
               style={bottomImg}
               className='border border-dark'
               alt={"Pizza"}
